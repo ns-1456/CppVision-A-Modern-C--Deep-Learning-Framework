@@ -255,12 +255,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **C++ Community**: For excellent libraries and best practices
 - **Deep Learning Research**: For foundational algorithms and techniques
 
-## 📞 Contact
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/cppvision/issues)
-- **Discussions**: [Join the community](https://github.com/yourusername/cppvision/discussions)
-- **Email**: your.email@example.com
-
 ---
 
 **⭐ Star this repository if you find it helpful!**
